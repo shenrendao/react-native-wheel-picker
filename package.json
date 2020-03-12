@@ -1,8 +1,9 @@
 {
-  "name": "react-native-wheel-picker",
-  "version": "1.2.0",
+  "name": "@treenewbie/react-native-wheel-picker",
+  "version": "1.3.1",
   "description": "React native cross platform picker.",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
